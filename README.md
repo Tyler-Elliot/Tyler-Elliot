@@ -7,9 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Tyler-Elliot/post-install-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Tyler-Elliot/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Inspecting Network Protocol Traffic & Network Security Groups (NSGs)](https://github.com/Tyler-Elliot/network-traffic)
-
+- <b>Security</b>
+  - [Configuring VPN](https://github.com/joshmadakorcc/configure-ad)
 <h2>🤳Connect with me:</h2>
 
 
