@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Tyler-Elliot/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Tyler-Elliot/post-install-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Tyler-Elliot/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Inspecting Network Protocol Traffic & Network Security Groups (NSGs)](https://github.com/Tyler-Elliot/network-traffic)
 - <b>Security</b>
