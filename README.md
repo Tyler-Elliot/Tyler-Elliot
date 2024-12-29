@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Inspecting Network Protocol Traffic & Network Security Groups (NSGs)](https://github.com/Tyler-Elliot/network-traffic)
 - <b>Security</b>
-  - [Configuring VPN](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring VPN](https://github.com/Tyler-Elliot/VPN-Setup)
 <h2>🤳Connect with me:</h2>
 
 
